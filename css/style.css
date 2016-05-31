@@ -1,3 +1,14 @@
 #initially-hidden {
   display: none;
 }
+
+#initially-hidden-tarsier {
+  display: none;
+}
+
+#initially-hidden-sloth {
+  display: none;
+}
+img{
+  width=500;
+}
